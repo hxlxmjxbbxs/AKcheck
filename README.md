@@ -4,6 +4,10 @@
 
 Welcome to AKcheck, a utility tool developed by hxlxmj. AKcheck is an indispensable tool for bug bounty hunters, providing an easy way to verify the provider of a specific API key. It interacts with various service endpoints to determine the API key's origin quickly and efficiently.
 
+## Screenshots
+
+![Alt Text](https://raw.githubusercontent.com/hxlxmjxbbxs/AKcheck/main/img/AKcheck.jpg)
+
 ## Table of Contents
 1. [Installation](#installation)
 2. [Usage](#usage)
